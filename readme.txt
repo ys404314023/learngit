@@ -6,3 +6,4 @@ Git has reseti.
 Git has chenkout.
 i insert something here.
 insert here 2
+in branch dev
