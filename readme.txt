@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git has reseti.
 Git has chenkout.
 i insert something here.
+insert here 2
